@@ -1,8 +1,4 @@
 
 # Pealkiri
 
-- d
-- fdsa
-- gadgd
-- er
-- df
+main1
